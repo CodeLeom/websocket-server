@@ -1,0 +1,16 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["websocket", "server", "node.js"],
+  "author": "Ayodele Aransiola",
+  "license": "ISC",
+  "description": "A practical guide on how to create a WebSocket server in Node.js",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
